@@ -89,4 +89,4 @@ class PetApiTest
 
 ## License
 
-BerryCrush is open source software licensed under the [MIT License](https://github.com/berrycrush/berrycrush/blob/main/LICENSE).
+BerryCrush is open source software licensed under the [Apache License 2.0](https://github.com/berrycrush/berrycrush/blob/main/LICENSE).
