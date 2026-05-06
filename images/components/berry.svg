@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="350" height="450" viewBox="70 50 350 450" xml:space="preserve">
+  <!-- Berry component with leaves extracted from berrycrush.svg -->
+  <g transform="matrix(1 0 0 1 221.888 279.3912)">
+    <g style="">
+      <!-- Berry circles (outer ring - dark blue) -->
+      <g transform="matrix(0.4594 0 0 0.4594 -58.4783 -66.9667)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -6.5218 -78.271)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 46.5217 -68.9232)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -100.4348 -28.0537)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -110 21.5115)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -98.6957 78.0332)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -75.2174 132.8158)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -36.087 175.4245)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 15.2173 191.9462)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 57.826 166.7288)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 93.4783 -35.8799)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 109.9999 18.9027)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 103.9129 75.4244)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 89.1304 123.2505)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(21,24,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <!-- Berry circles (middle ring - dark purple) -->
+      <g transform="matrix(0.4594 0 0 0.4594 -31.7393 -27.1843)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 19.565 -29.793)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 60.4346 -9.793)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -69.1306 -10.6626)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -59.5654 45.8592)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -43.0437 98.9027)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -19.5654 136.2939)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 31.7389 140.6417)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 62.1737 89.3374)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 75.2172 31.0765)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(34,21,96); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <!-- Berry circles (inner - lighter purple) -->
+      <g transform="matrix(0.4594 0 0 0.4594 -14.348 21.5113)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(36,24,99); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 -11.7393 67.5983)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(36,24,99); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 15.2172 99.7722)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(36,24,99); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 31.7389 62.3809)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(36,24,99); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <g transform="matrix(0.4594 0 0 0.4594 32.6085 21.5113)">
+        <circle style="stroke: none; stroke-width: 0; fill: rgb(36,24,99); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="75" />
+      </g>
+      <!-- Leaves -->
+      <g transform="matrix(0.3811 0.3811 -0.3006 0.3006 -36.7012 -126.1218)">
+        <ellipse style="stroke: none; stroke-width: 1; fill: rgb(55,169,68); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="100" ry="60" />
+      </g>
+      <g transform="matrix(-0.5805 0.5805 -0.3006 -0.3006 50.4146 -149.8788)">
+        <ellipse style="stroke: none; stroke-width: 1; fill: rgb(55,169,68); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" rx="100" ry="60" />
+      </g>
+      <!-- Leaf veins -->
+      <g transform="matrix(0.3495 0.3495 0.3495 -0.3495 -28.9291 -123.452)">
+        <line style="stroke: rgb(164,244,170); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" x1="-75" y1="0" x2="75" y2="0" />
+      </g>
+      <g transform="matrix(-0.6036 0.6036 0.6036 0.6036 41.5714 -142.997)">
+        <line style="stroke: rgb(164,244,170); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" x1="-75" y1="0" x2="75" y2="0" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/berrycrush.png" alt="BerryCrush" width="200">
+  <img src="../images/berrycrush.svg" alt="BerryCrush">
 </p>
 
 <h1 align="center">BerryCrush</h1>

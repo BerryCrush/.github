@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="80" viewBox="0 550 600 80" xml:space="preserve">
+  <!-- Title component extracted from berrycrush.svg -->
+  <g transform="matrix(1 0 0 1 233.6125 600.3469)">
+    <g style="">
+      <!-- "Berry" text in dark purple -->
+      <g transform="matrix(1.5487 0 0 1.5487 -107.2288 -1.3044)" style="">
+        <text xml:space="preserve" font-family="sans-serif" font-size="48" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; fill: rgb(37,12,75); fill-rule: nonzero; opacity: 1; white-space: pre;">
+          <tspan x="-62.707" y="15.0787">Berry</tspan>
+        </text>
+      </g>
+      <!-- "Crush" text in green -->
+      <g transform="matrix(1.5487 0 0 1.5487 96.9566 1.3044)" style="">
+        <text xml:space="preserve" font-family="sans-serif" font-size="48" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; fill: rgb(26,127,51); fill-rule: nonzero; opacity: 1; white-space: pre;">
+          <tspan x="-69.3398" y="15.0787">Crush</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
