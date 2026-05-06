@@ -1,16 +1,10 @@
-<p align="center">
-  <img src="../images/berrycrush.svg" alt="BerryCrush">
-</p>
+<div>
+  <img src="../images/logo.svg" alt="BerryCrush" height="80">
+</div>
 
-<h1 align="center">BerryCrush</h1>
+**BDD-style API testing framework for Java/Kotlin with OpenAPI integration**
 
-<p align="center">
-  <strong>BDD-style API testing framework for Java/Kotlin with OpenAPI integration</strong>
-</p>
-
-<p align="center">
-  <em>Write human-readable tests. Validate against your API spec. Automate everything.</em>
-</p>
+*Write human-readable tests. Validate against your API spec. Automate everything.*
 
 ---
 
@@ -49,6 +43,7 @@ scenario: Create and verify a new pet
 |------------|-------------|
 | [**berrycrush**](https://github.com/berrycrush/berrycrush) | Core library with JUnit 5 and Spring Boot integration |
 | [**berrycrush-vscode**](https://github.com/BerryCrush/berrycrush-vscode) | VS Code extension for `.scenario` and `.fragment` files |
+| [**berrycrush-intellij**](https://github.com/BerryCrush/berrycrush-intellij) | IntelliJ IDEA plugin for `.scenario` and `.fragment` files |
 
 ## Getting Started
 
