@@ -1,5 +1,5 @@
 <div>
-  <img src="../images/berrycrush.svg" alt="BerryCrush" height="80">
+  <img src="../images/berrycrush.svg" alt="BerryCrush">
 </div>
 
 **BDD-style API testing framework for Java/Kotlin with OpenAPI integration**
