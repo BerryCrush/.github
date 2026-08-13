@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: Create a user story with requirements and acceptance criteria
 ---
 

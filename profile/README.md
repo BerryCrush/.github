@@ -52,7 +52,7 @@ scenario: Create and verify a new pet
 ```kotlin
 // build.gradle.kts
 dependencies {
-    testImplementation("org.berrycrush:berrycrush-junit:1.0.0")
+    testImplementation("org.berrycrush:junit:${version}")
 }
 ```
 
